@@ -27,6 +27,11 @@
   
     <script nomodule="" src="https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch"></script>
   
+  <style>
+    .hidden {
+      display: none !important;
+    }
+  </style>
 
   <!-- Performance API Polyfills -->
   <script>
