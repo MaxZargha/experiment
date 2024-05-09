@@ -1,12 +1,10 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
-    .hidden {
-      display: none !important;
-    }
-  </style>
-  
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width, initial-scale=1" id="wixDesktopViewport" />
   
